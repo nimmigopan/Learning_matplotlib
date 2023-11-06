@@ -1,6 +1,4 @@
-# Learning_matplotlib
-Learning "Matplotlib" library
-
+# Learning_matplotlib                                  ![matplotlib logo](https://github.com/nimmigopan/Learning_matplotlib/assets/35449494/322a7b03-c3da-46de-8b59-288b5b64679a)
 
 Matplotlib is a popular Python library for creating static, animated, and interactive visualizations in data analysis, data science, and scientific computing. 
 It provides a wide range of tools and functions for producing high-quality plots and charts.
